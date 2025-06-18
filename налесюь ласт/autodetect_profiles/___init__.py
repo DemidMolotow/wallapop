@@ -1,0 +1,1 @@
+# empty file to mark autodetect_profiles as a package

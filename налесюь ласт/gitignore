@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+db/*.sqlite3
+db/*.json
+.env
+.vscode/
+.idea/
+chromedriver.log
+logs/
