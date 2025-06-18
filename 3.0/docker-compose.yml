@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  wallapopbot:
+    build: .
+    container_name: wallapopbot
+    restart: unless-stopped
+    environment:
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - ADMIN_IDS=${ADMIN_IDS}
+      - CAPTCHA_API_KEY=${CAPTCHA_API_KEY}
+    volumes:
+      - ./db:/usr/src/app/db
+      - ./logs:/usr/src/app/logs
+      - ./ua_updater:/usr/src/app/ua_updater
+      - ./templates:/usr/src/app/templates
+    ports:
+      - "8080:8080"
