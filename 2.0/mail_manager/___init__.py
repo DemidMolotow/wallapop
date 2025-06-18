@@ -1,0 +1,1 @@
+# empty file to mark mail_manager as a package
