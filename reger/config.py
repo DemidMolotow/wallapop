@@ -1,0 +1,9 @@
+TG_TOKEN = "7512529507:AAHga264aQDpBF9fsSHrvDVgInkjwfPJ96o"
+OWNER_ID = 7541702112
+TEMPLATE_VM_NAME = "Android_x86"
+VBOX_PATH = "VBoxManage"
+ADB_HOST = "192.168.56.101"
+ADB_PORT = 5555
+DB_FILE = "accounts.db"
+APPIUM_HOST = "http://localhost:4723/wd/hub"
+DEVICE_NAME = "192.168.56.101:5555"  # или имя твоего устройства
