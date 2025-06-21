@@ -1,0 +1,10 @@
+TG_TOKEN = "ВАШ_TG_TOKEN"
+OWNER_ID = 111111111
+TEMPLATE_VM_NAME = "Android_x861"
+VBOX_PATH = "VBoxManage"
+ADB_HOST = "192.168.1.3"
+ADB_PORT = 5555
+DB_FILE = "accounts.db"
+APPIUM_HOST = "http://localhost:4723"
+DEVICE_NAME = "192.168.1.3:5555"
+HTTP_ROOT_SERVER = "http://192.168.1.3:8080"  # Адрес FastAPI сервера на Android
