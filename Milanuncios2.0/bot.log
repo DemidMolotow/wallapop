@@ -1,0 +1,17 @@
+2025-06-26 01:26:49,343 - __main__ - INFO - Бот запущен!
+2025-06-26 01:26:49,343 - services - INFO - Бот запущен!
+2025-06-26 01:26:49,998 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2025-06-26 01:27:00,583 - services - INFO - Пользователь sIappytappy открыл меню.
+2025-06-26 01:27:51,367 - services - INFO - Пользователь sIappytappy открыл меню.
+2025-06-26 01:27:53,511 - services - INFO - Автоматическая рассылка запущена
+2025-06-26 01:27:53,512 - services - INFO - Выполняется автоматическая рассылка...
+2025-06-26 01:27:54,029 - modules.parser - INFO - Начинаю парсинг объявлений с https://www.milanuncios.com
+2025-06-26 01:28:37,780 - modules.parser - INFO - Ошибка ожидания селектора: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator(".ad-item") to be visible
+============================================================
+2025-06-26 01:32:04,849 - __main__ - INFO - Бот запущен!
+2025-06-26 01:32:04,850 - services - INFO - Бот запущен!
+2025-06-26 01:32:05,740 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2025-06-26 01:32:10,413 - services - INFO - Пользователь sIappytappy открыл меню.
+2025-06-26 01:32:21,301 - services - INFO - Пользователь sIappytappy открыл меню.
